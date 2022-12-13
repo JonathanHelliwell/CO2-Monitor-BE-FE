@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "@cloudant/cloudant": "^4.2.4",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
